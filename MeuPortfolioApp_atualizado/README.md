@@ -21,3 +21,4 @@ expo start
 
 - [LinkedIn](https://www.linkedin.com/in/rpg2011)
 - [GitHub](https://github.com/shakarpg)
+- [E-mail](rafaelpereiragalhardo@gmail.com)
